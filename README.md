@@ -1,3 +1,1 @@
-# Krupa
-It's my first project.._
-Hello
+hello I am Krupa
